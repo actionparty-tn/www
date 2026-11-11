@@ -1,0 +1,13 @@
+|is-table
+||cloneAt: 
+||renderWith: repos.php
+||Description: ActionParty Domains
+||Primary Keyword: ActionParty
+||Keywords: ActionParty Domains
+#at	from
+
+h/2/action/tn/www	https://github.com/actionparty-tn/www.git
+
+h/2/action/www	https://github.com/actionparty-in/www.git
+
+amadeusweb/www	https://github.com/amadeusweb-sites/www.git

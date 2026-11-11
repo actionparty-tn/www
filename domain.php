@@ -9,7 +9,7 @@ domain::add('action/tn', __DIR__, true, new domain([
 		'local-base' => 'http://localhost/h/2/action/tn/%subfol%/',
 		'live-base' => 'https://%subfol%.tn.action.amadeusweb.in/',
 	],
-	['%folder%www'],//, '%folder%1/chennai'],
+	['%folder%www', '%folder%1/chennai'],
 	[
 		'1',
 		'2',

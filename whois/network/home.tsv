@@ -1,9 +1,8 @@
 |is-table
-||cloneAt: h/2/action/
+||cloneAt: h/2/action/tn/
 ||renderWith: repos.php
-||Description: Seeding the Action Party
+||Description: Seeding the TN Action Party
 ||Primary Keyword: ActionParty
 ||Keywords: ActionParty, APPP
 #at	from
-www	https://github.com/actionparty-in/www.git
-states	https://github.com/actionparty-in/states.git
+1/chennai	https://github.com/actionparty-tn/chennai.git

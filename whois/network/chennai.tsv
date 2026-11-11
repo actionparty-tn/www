@@ -1,0 +1,8 @@
+|is-table
+||cloneAt: h/2/action/tn/1/chennai/
+||renderWith: repos.php
+||Description: Seeding the TN Action Party
+||Primary Keyword: ActionParty
+||Keywords: ActionParty, APPP
+#at	from
+1/600061	https://github.com/actionparty-tn/600061.git
